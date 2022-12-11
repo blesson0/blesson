@@ -3,7 +3,7 @@
 # CA1 Assignment
 
 # COMPANY CHOOSEN ; Sonicwall
-
+<img width="150" height="150" alt="Sonicwall" src="https://seekvectorlogo.com/wp-content/uploads/2018/12/sonicwall-vector-logo-small.png">
 ## Introduction
 
 
@@ -24,7 +24,7 @@ SonicWall is a cybersecurity firm based in the United States that provides
 impacted by the services offered by the cloud vendor.The choice of cloud services becomes extremely crucial for 
 an application that must operate under strict compliance and data residency requirements.
 
-<img width="700" height="500" alt="CLOUD" src="https://www.sonicguard.com/images/diagrams/Zero-trust-1.png">
+<img width="800" height="500" alt="CLOUD" src="https://www.sonicguard.com/images/diagrams/Zero-trust-1.png">
 ## Cloud Storage  vs ON-Premises Storage
 ##  On Premise Advantages
 ### Total Cost of Ownership — An on-premise solution may have a lower Total Cost of Ownership (TCO) than a cloud system since you only need to pay for your user licenses once.
